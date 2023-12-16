@@ -15,11 +15,11 @@ redFox는 코인 자동거래, 김치프리미엄 차익거래를 위한 정보 
 
 ### Front End
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702739111256?alt=media&token=4b06ff02-0206-4959-a941-a63a3410f022)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702742614443?alt=media&token=30509443-d3c7-443b-bd48-237be471fa3e)](https://github.com/msdio/stackticon)
 
 
 ### Back End
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702740160171?alt=media&token=bbbb0938-48da-4b06-aa45-c005ebf2a055)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702742562544?alt=media&token=cdbb9730-1908-4748-888e-d8c183f6cfb2)](https://github.com/msdio/stackticon)
 
 
 ### Database
