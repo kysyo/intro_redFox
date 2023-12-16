@@ -13,20 +13,8 @@ redFox는 코인 자동거래, 김치프리미엄 차익거래를 위한 정보 
 
 ## 기술스택
 
-
-| Python | Flask |
-| :--------: | :--------: |
-| ![python] | ![flask] |
-
-| InfluxDB | MariaDB |  Redis |
-| :--------: | :--------: | :------: |
-|   ![influxdb]    |   ![mariadb]    | ![redis] |
-
-<!-- 아이콘 -->
-
-[python]: /images/skill/python.svg
-[flask]: /images/skill/flask.svg
-
-[influxdb]: /images/skill/influxdb.svg
-[mariadb]: /images/skill/mariadb.svg
-[redis]: /images/skill/redis.svg
+***
+프런트
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+***
