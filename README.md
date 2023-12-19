@@ -15,7 +15,7 @@ redFox는 코인 자동거래, 김치프리미엄 차익거래를 위한 정보 
 
 ### Front End
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702742614443?alt=media&token=30509443-d3c7-443b-bd48-237be471fa3e)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702996141619?alt=media&token=50ae1c1b-6699-45c2-8e33-21f83f4f38b1)](https://github.com/msdio/stackticon)
 
 
 ### Back End
