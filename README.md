@@ -17,7 +17,7 @@ redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리
     </tr>
     <tr>
         <td align="center">
-            <a href="https://cointalk.wachsenhaus.com/"><img  width="640px" src="./images/redfox/data/kimp_chart.gif" /></a>
+            <img src="./images/redfox/data/kimp_chart.gif" />
         </td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리
     </tr>
     <tr>
         <td align="center">
-            <a href="https://cointalk.wachsenhaus.com/chat"><img  width="640px" src="./images/redfox/data/real_time_kimp.gif" /></a>
+            <img src="./images/redfox/data/real_time_kimp.gif" />
         </td>
     </tr>
 </table>
