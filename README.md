@@ -9,7 +9,37 @@
 ## 프로젝트 소개
 redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리를 통합한 코인 프로젝트입니다.
 
+<br>
+
+<table>
+    <tr>
+        <td align="center">차익거래 차트</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://cointalk.wachsenhaus.com/"><img  width="640px" src="./images/redfox/data/kimp_chart.gif" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">차익거래 실시간 정보</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://cointalk.wachsenhaus.com/chat"><img  width="640px" src="./images/redfox/data/real_time_kimp.gif" /></a>
+        </td>
+    </tr>
+</table>
+
 ## 기능 소개
+
+<details>
+  <summary>서버관리</summary>
+  <div>
+  <img width="60%" src="./images/redfox/server/check_server.png">
+  <img width="60%" src="./images/redfox/server/check_server.png">
+  <img width="60%" src="./images/redfox/server/check_server.png">
+</div>
+</details>
 
 ## 기술스택
 
