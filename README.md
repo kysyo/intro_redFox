@@ -1,13 +1,17 @@
-# redFox
+<div align="center">
+  <img src="./images/common/logo.png" width="15%">
+</div>
 
-<p align="center">
-  <br>
-  <img src="./images/redfox/main.png">
-  <br>
-</p>
+<h1 align="center">redFox</h1>
+<br>
 
-## 프로젝트 소개
 redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리를 통합한 코인 프로젝트입니다.
+
+## Contents
+  - [특징](#특징)
+  - [기능](#기능)
+  - [기술스택](#기술스택)
+  - [아키텍처](#아키텍처)
 
 <br>
 
@@ -38,7 +42,10 @@ redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리
     </tr>
 </table>
 
-## 기능 소개
+## 특징
+- 
+
+## 기능
 
 <details>
   <summary>서버관리</summary>
