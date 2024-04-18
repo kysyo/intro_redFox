@@ -1,4 +1,4 @@
-# Project redFox
+# redFox
 
 <p align="center">
   <br>
@@ -13,7 +13,7 @@ redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리
 
 <table>
     <tr>
-        <td align="center">차익거래 차트</td>
+        <td align="center">김치프리미엄 차트</td>
     </tr>
     <tr>
         <td align="center">
@@ -21,11 +21,19 @@ redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리
         </td>
     </tr>
     <tr>
-        <td align="center">차익거래 실시간 정보</td>
+        <td align="center">김치프리미엄 실시간 정보</td>
     </tr>
     <tr>
         <td align="center">
             <img src="./images/redfox/data/real_time_kimp.gif" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">수익</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="./images/redfox/profit/profit.gif" />
         </td>
     </tr>
 </table>
