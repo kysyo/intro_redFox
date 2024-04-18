@@ -16,6 +16,14 @@ redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리
 <br>
 
 <table>
+      <tr>
+        <td align="center">메인</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="./images/redfox/main.png" />
+        </td>
+    </tr>
     <tr>
         <td align="center">김치프리미엄 차트</td>
     </tr>
