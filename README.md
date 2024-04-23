@@ -184,6 +184,7 @@ redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리
 - 서버의 주요 에러정보가 관리자에게 전달됩니다
   
 <div>
+  <img width="40%" src="./images/redfox/telegram_msg.png">
 </div>
 </details>
 
