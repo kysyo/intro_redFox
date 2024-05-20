@@ -147,7 +147,7 @@ redFox는 차익거래를 위한 정보 제공과 거래 자동화, 자산관리
 - 포지션의 실시간 수익을 조회할 수 있습니다
   
 <div>
-  <img src="./images/redfox/position/cur_position_arbitrage.gif">
+  <img src="./images/redfox/position/cur_position_spg.gif">
   <img src="./images/redfox/position/cur_position_pdbe.png">
 </div>
 </details>
